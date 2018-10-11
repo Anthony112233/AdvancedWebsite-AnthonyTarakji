@@ -1,0 +1,17 @@
+<html>
+<title>The Website All About Me</title>
+<head>
+<link href="mysecondwebsite.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="header"> <h1> The Story of Me </h1> </div>
+<ul>
+	<li> <a href="Where i  </li>
+</ul>
+<div class="header2"> <h2> Who Am I?? </h2> </div>
+
+<div class="paragraph" ><p>
+<div class="firstword"> My </div> name is Anthony Tarakji, and I was born to my parents, Christin and Elias Tarakji at San Dimas Hospital in California. My two brothers are Albert and Andrew. Albert works as a voice actor for the veggie tales and Andrew makes toy reviews on youtube. My dad is the president of the united states and my mother is is a professional ice skater. <br> Here is a picture of my family right here:
+</p> </div>
+<img src="Advanced Website pictures/My family.jfif">
+</body>
